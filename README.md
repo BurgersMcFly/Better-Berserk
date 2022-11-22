@@ -1,6 +1,6 @@
 Powered by [redscript](https://github.com/jac3km4/redscript), a Swift-like programming language for working with scripts used by REDengine in Cyberpunk 2077.
 
-# Superhero Landing on command
+# Better Berserk
 
 Stops superhero landings from being executed automatically when Berserk is activated. They are instead executed whenever you want them to by pressing a button!
 
